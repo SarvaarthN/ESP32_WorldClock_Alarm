@@ -3702,17 +3702,6 @@
 		)
 		(uuid "311e9936-ef5e-465b-9149-e04ec4c9996e")
 	)
-	(text "CLK - Mod-12"
-		(exclude_from_sim no)
-		(at 356.362 316.992 0)
-		(effects
-			(font
-				(size 0.889 0.889)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "7bfb6c47-9334-4a95-9168-5c238486695f")
-	)
 	(text "Power Supply"
 		(exclude_from_sim no)
 		(at 513.334 417.83 0)
@@ -4787,7 +4776,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 228.6) (xy 313.69 228.6)
+			(xy 308.61 228.6) (xy 313.69 228.6)
 		)
 		(stroke
 			(width 0)
@@ -5214,16 +5203,6 @@
 			(type default)
 		)
 		(uuid "7d67c318-fdb9-4762-9d92-43acc1b003dc")
-	)
-	(wire
-		(pts
-			(xy 300.99 228.6) (xy 303.53 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e2e5a8c-51bf-4e34-b9e0-50d584a69142")
 	)
 	(wire
 		(pts
@@ -9377,7 +9356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W10.16mm"
+		(property "Footprint" "Package_DIP:SMDIP-14_W7.62mm"
 			(at 153.67 132.08 0)
 			(effects
 				(font
@@ -11857,7 +11836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W10.16mm"
+		(property "Footprint" "Package_DIP:SMDIP-14_W7.62mm"
 			(at 180.34 132.08 0)
 			(effects
 				(font
@@ -12767,7 +12746,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 307.34 228.6 90)
+		(at 304.8 228.6 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12776,7 +12755,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8104645-d03d-4040-99ce-2ac25c7a4d4d")
 		(property "Reference" "R51"
-			(at 307.34 222.25 90)
+			(at 304.8 222.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12784,7 +12763,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 307.34 224.79 90)
+			(at 304.8 224.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12792,7 +12771,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 307.34 230.378 90)
+			(at 304.8 230.378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12801,7 +12780,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 307.34 228.6 0)
+			(at 304.8 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12810,7 +12789,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 307.34 228.6 0)
+			(at 304.8 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14130,7 +14109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W10.16mm"
+		(property "Footprint" "Package_DIP:SMDIP-14_W7.62mm"
 			(at 130.81 132.08 0)
 			(effects
 				(font
@@ -16078,7 +16057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W10.16mm"
+		(property "Footprint" "Package_DIP:SMDIP-14_W7.62mm"
 			(at 110.49 129.54 0)
 			(effects
 				(font

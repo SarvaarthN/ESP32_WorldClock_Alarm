@@ -28,3 +28,14 @@ This project emphasizes a deep understanding of frequency division, time countin
 └── README.md
 
 ```
+
+## PCB Pictures
+
+![PCB-Front-view](Assets/Clock_3D_Front.png "Front-View")
+![PCB-Back-view](Assets/Clock_3D_Back.png "Back-View")
+
+## Contributors
+
+- [Sarvaarth Narang](https://github.com/SarvaarthN)
+- [Paarth Shirsat](https://github.com/Paarth-Shirsat)
+- [Bhakti Assar](https://github.com/Bhakti-A)
